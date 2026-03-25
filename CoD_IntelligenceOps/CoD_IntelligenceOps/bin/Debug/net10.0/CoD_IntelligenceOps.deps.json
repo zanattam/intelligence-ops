@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CoD_IntelligenceOps/1.0.0": {
+        "runtime": {
+          "CoD_IntelligenceOps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoD_IntelligenceOps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
