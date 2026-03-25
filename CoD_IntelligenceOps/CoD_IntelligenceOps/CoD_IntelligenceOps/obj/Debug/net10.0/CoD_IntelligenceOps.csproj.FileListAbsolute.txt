@@ -1,0 +1,28 @@
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.exe
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.deps.json
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.runtimeconfig.json
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.pdb
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.AssemblyInfoInputs.cache
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.AssemblyInfo.cs
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.csproj.CoreCompileInputs.cache
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\refint\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.pdb
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.genruntimeconfig.cache
+C:\Users\GMARTINS\Documents\Projetos\COD - Projeto Teste Github\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\ref\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.exe
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.deps.json
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.runtimeconfig.json
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\bin\Debug\net10.0\CoD_IntelligenceOps.pdb
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.AssemblyInfoInputs.cache
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.AssemblyInfo.cs
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.csproj.CoreCompileInputs.cache
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\refint\CoD_IntelligenceOps.dll
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.pdb
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\CoD_IntelligenceOps.genruntimeconfig.cache
+C:\Users\GMARTINS\Documents\Projetos\COD_projeto_teste\CoD_IntelligenceOps\CoD_IntelligenceOps\obj\Debug\net10.0\ref\CoD_IntelligenceOps.dll
